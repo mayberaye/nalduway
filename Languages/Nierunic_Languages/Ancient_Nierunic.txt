@@ -20,20 +20,19 @@ It is known primarily from reconstructions, with textual fragments being relativ
 Inspo: Afro-Asiatic, esp. Proto-Semitic, Sumerian
 
 ==== Consonants ====
-
-| Manner     | Labial | Dental   | Alveolar-     | Alveolar-    | Palatal   | Velar - Uvular | Glottal |
-|------------|--------|----------|---------------|--------------|-----------|----------------|---------|
-|            |        |          | Central       | Lateral      |           |                |         |
-| Obstruent: |        |          |               |              |           |                |         |
-| Stop       | p b p' |          | t d t'        |              |           | k g  k'        | ʔ       |
-| Affricate  |        |          | t͡s d͡z  t͡s' | t͡ɬ d͡ɮ t͡ɬ' |           |                | <'>     |
-|            |        |          | <ts> <dz>     | <tl> <dl>    |           |                |         |
-| Fricative  |        | θ ð θ'   | s z s'        |              | ʃ ʒ ʃ'    | x̣ ʁ x̣'       | h       |
-|            |        | <th><dh> |               |              | <sh> <zh> | <kh> <gh>      |         |
-| Resonant   |        |          |               |              |           |                |         |
-| Trill:     |        |          | r             |              |           |                |         |
-| Approxt.   | w      |          |               | l            | j <y>     |                |         |
-| Nasal      | m      |          | n             |              |           |                |         |
+〈〉
+| Manner     | Labial | Dental | Alveolar-     | Alveolar-    | Palatal | Velar - Uvular | Glottal |
+|------------|--------|--------|---------------|--------------|---------|----------------|---------|
+|            |        |        | Central       | Lateral      |         |                |         |
+| Obstruent: |        |        |               |              |         |                |         |
+| Stop       | p b p' |        | t d t'        |              |         | k g  k'        | ʔ       |
+| Affricate  |        |        | t͡s d͡z  t͡s' | t͡ɬ d͡ɮ t͡ɬ' |         |                |         |
+|            |        |        | <ts> <dz>     | <tl> <dl>    |         |                |         |
+| Fricative  |        | θ ð θ' | s z s'        |              | ʃ ʒ ʃ'  | x̣ ʁ x̣'       | h       |
+| Resonant   |        |        |               |              |         |                |         |
+| Trill:     |        |        | r             |              |         |                |         |
+| Approxt.   | w      |        |               | l            | j       |                |         |
+| Nasal      | m      |        | n             |              |         |                |         |
 
 Obstruents generally have a three-way contrast between voiced, voiceless, and glottalized (or "emphatic") variants.
 
@@ -56,6 +55,12 @@ Pitch is used to place stress on syllables. (phonemic or non?)
 Syllables must begin with a consonant, although [j] and [w] are sometimes represented as vowels. 
 
 Consonant clusters are allowed only between an obstruent and a resonant, or between w or y and another resonant.
+
+
+==== Romanization Notes ====
+
+[t͡s] [d͡z] [ t͡s'] => 〈 ts 〉 〈 dz 〉 〈 ts' 〉 
+
 
 ===== Grammar =====
 
@@ -89,7 +94,7 @@ noun -	adjective -	numeral -	genitive phrase -	relative clause -	possessive mark
 | 5 | Equative*            | -bii   | -me-bii        | -we-bii        | rwi-bii    | water-like  |
 
 
-*covers roughly the same meaning as similative, essive, and comparative 	
+*covers roughly the same meaning as similative, essive, and comparative 	〈
 
 
 ==== Pronouns ====
