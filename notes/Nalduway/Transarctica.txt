@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-03-16T18:14:54-05:00
+
+====== Transarctica ======
+Created Saturday 16 March 2024
+
+Continent which covers most of the northern hemisphere, including the Axis of the World
+
+===== Points of Interest =====
+* [[+Axis of the World]]
+	* [[+Axis of the World:Argent Citadel]]

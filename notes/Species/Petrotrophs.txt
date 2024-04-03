@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-03-23T10:50:57-05:00
+
+====== Petrotrophs ======
+Created Saturday 23 March 2024
+
+Petrotrophs are one of the primary kingdoms of life on Nalduway. Existing primarily in areas of high arcane radiation, they are multicellular [[https://en.wikipedia.org/wiki/Chemotroph#Chemoautotroph|chemoautotrophs]], and form the basis of the food chain in underground ecosystems, where they occupy the niches of primary producers and also play a major role in shaping their environment.
+
+Petrotrophs use a variety of methods to extract energy from the rock.
