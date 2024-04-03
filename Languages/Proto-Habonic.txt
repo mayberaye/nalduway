@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-03-21T20:56:57-05:00
-
-====== Proto-Habonic ======
-Created Thursday 21 March 2024
-
-Inspo: Lakota, Bantu languages, Nahuatl, Maya, Quechua
