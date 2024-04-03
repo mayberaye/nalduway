@@ -1,0 +1,140 @@
+# Ancient Nierunic
+Created Thursday 21 March 2024
+
+- noun declension?
+- noun class system?
+- verb conjugation?
+
+History
+-------
+
+Ancient Nierunic was the language of the Nierunal region prior to the Infernal Dominion.
+
+It is known primarily from reconstructions, with textual fragments being relatively rare.
+
+Phonology
+---------
+
+Inspo: Afro-Asiatic, esp. Proto-Semitic, Sumerian
+
+### Consonants
+〈〉
+| Manner     | Labial | Dental | Alveolar-     | Alveolar-    | Palatal | Velar - Uvular | Glottal |
+|------------|--------|--------|---------------|--------------|---------|----------------|---------|
+|            |        |        | Central       | Lateral      |         |                |         |
+| Obstruent: |        |        |               |              |         |                |         |
+| Stop       | p b p' |        | t d t'        |              |         | k g  k'        | ʔ       |
+| Affricate  |        |        | t͡s d͡z  t͡s' | t͡ɬ d͡ɮ t͡ɬ' |         |                |         |
+| Fricative  |        | θ ð θ' | s z s'        |              | ʃ ʒ ʃ'  | x̣ ʁ x̣'       | h       |
+| Resonant   |        |        |               |              |         |                |         |
+| Trill:     |        |        | r             |              |         |                |         |
+| Approxt.   | w      |        |               | l            | j       |                |         |
+| Nasal      | m      |        | n             |              |         |                |         |
+
+Obstruents generally have a three-way contrast between voiced, voiceless, and glottalized (or "emphatic") variants.
+
+
+### Vowels
+
+|       | Front | Central | Back |
+|-------|-------|---------|------|
+| Close | i i:  |         | u u: |
+| Mid   | e e:  |         |      |
+| Open  |       | a a:    |      |
+
+
+### Prosody
+
+Pitch is used to place stress on syllables. (phonemic or non?)
+
+### Phonotactics
+
+Syllables must begin with a consonant, although [j] and [w] are sometimes represented as vowels. 
+
+Consonant clusters are allowed only between two consonants where at least one is a resonant.
+
+
+### Romanization Notes
+
+[ʔ] => 〈 ' 〉 
+[t͡s] [d͡z] [ t͡s'] => ts, dz,  ts' 
+[t͡ɬ] [d͡ɮ] [t͡ɬ'] =>  tl 〉 〈 dz 〉 〈 tl' 〉
+[θ] [ð] [θ'] => 〈 th 〉 〈 dh 〉 〈 th' 〉 
+[ʃ] [ʒ] [ʃ'] => 〈 sh 〉 〈 zh 〉 〈 sh'〉
+[x̣] [ʁ] [x̣'] => 〈 kh 〉 〈 gh 〉 〈 kh'〉
+[j] => 〈 y 〉 
+[a:] => 〈 aa 〉
+[e:] => 〈 ei 〉
+[i:] => 〈 ii 〉 
+[u:] => 〈 uu 〉
+
+
+
+Grammar
+-------
+
+Inspiration: Ancient Sumerian
+
+Ancient Nierunic was an agglutinative language, ergative, and SOV language. 
+- adjectives derive from/resemble nouns
+- adpositions derive from verbs (postpositions)
+
+### Nouns
+
+#### Noun Phrases
+
+Modifiers generally follow the following order:
+noun -	adjective -	numeral -	genitive phrase -	relative clause -	possessive marker -	plural marker -	case marker
+
+#### Plurals
+
+| Singular | Dual | Plural |
+|----------|------|--------|
+| -        | m(e) | w(a)   |
+
+
+#### Case markers
+| # | Case                 | Sing.  | Dual           | Plural         | A.N.       | English     |
+|:--|----------------------|--------|:---------------|:---------------|------------|-------------|
+| 1 | Absolutive (human)   | -(y)em | -m-em / -mem   | -w-em / -wem   | siilaan-em | person      |
+| 2 | Absolutive (nonhum.) | -'a    | -m-'a / -m'a   | -w-'a / -w'a   | rwi-'a     | water       |
+| 3 | Ergative             | -'uu   | -m-'uu / -m'uu | -w-'uu / -w'uu | rwi-'uu    | water       |
+| 4 | Genetive             | -shu   | -me-shu        | -we-shu        | rwi-shu    | water-taken |
+| 5 | Equative*            | -bii   | -me-bii        | -we-bii        | rwi-bii    | water-like  |
+
+
+*covers roughly the same meaning as similative, essive, and comparative 	〈
+
+
+### Pronouns
+
+#### Demonstrative Pronouns
+
+This - 			da	( < [dwa:r] - to hold, to possess )
+That (near) - 	ghe	(< [x̣e:ri:] - to stand)
+That (far) - 	dze	(< [dzeir]  - v. to break, to separate)
+
+#### Personal Pronouns
+
+Personal pronouns show the human/nonhuman gender distinction of other nouns
+
+| # | Person | Abs. Hum. | Abs. NH | Erg.     | Gen.       | Equ.       |
+|:--|--------|-----------|:--------|----------|------------|------------|
+| 1 | 1.s    | da-yem    | -       | da-'uu   | da-shu     | da-bii     |
+| 2 | 1.du   | da-mem    | -       | da-m'uu  | da-me-shu  | da-me-bii  |
+| 3 | 1.pl   | da-wem    | -       | da-w'uu  | da-wa-shu  | da-wa-bii  |
+| 4 | 2.s    | ghe-yem   | -       | ghe-'uu  | ghe-wa-shu | ghe-wa-bii |
+| 5 | 2.du   | ghe-mem   | -       | ghe-m'uu | ghe-me-shu | ghe-me-bii |
+| 6 | 2.pl   | ghe-wem   | -       | ghe-w'uu | ghe-wa-shu | ghe-we-bii |
+| 7 | 3.s    | dze-yem   | dze-'a  | dze-'uu  | dze-shu    | dze-bii    |
+| 8 | 3.du   | dze-mem   | dze-m'a | dze-m'uu | dze-me-shu | dze-me-bii |
+| 9 | 3.pl   | dze-wem   | dze-w'a | dze-w'uu | dze-wa-shu | dze-wa-bii |
+
+
+"my name is Raye" = Lwul-da-shu-'a Reiy-'uu (?)-khuu-(?).	
+
+
+### Verbs
+
+
+

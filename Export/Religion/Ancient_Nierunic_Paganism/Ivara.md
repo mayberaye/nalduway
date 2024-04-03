@@ -1,0 +1,20 @@
+# Ivara
+Created Saturday 16 March 2024
+
+Divine Domains
+--------------
+
+Ivara is a goddess of magic. She is also a  solar deity, and the daughter of the sun god Itoteim. She is credited with revealing the mystical arts to mortalkind against the wishes of her father, and was punished by him with expulsion from the heavens. Ivara is also associated with knowledge, benevolence, and sacrifice.
+
+Myth of Yvara
+-------------
+
+A major figure in the Nierunic tradition was Yvara,  daughter of the sun god Ytoteim, who according to legend rebelled against the heavens and gave earth- dwelling mortals the knowledge and power of magic, raising them up from near-animals to sapient beings. For her disobedience, Yvara was then cast out to live among the mortals. Rulers of many Dree cultures traced their lineages back to this origin, most notably the Infernal Dominion.
+
+Divine Symbols
+--------------
+
+One of Ivara's primary symbols is called the "hands of Ivara" -- two stylized hands side by side with palms upward, representing the act of giving the gift of magic to mortalkind.
+
+Another symbol is the eight-pointed star [inspired by Sumerian goddess Innana)
+
