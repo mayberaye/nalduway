@@ -1,8 +1,0 @@
-# Blood Magic
-Created Monday 25 March 2024
-
-the name is a misnomer because magic is transmitted through "bloodlines", but its not genetic or really connected to blood at all. it may or may not even refer to a single magical practice, rather than a later construct lumping several different practices together.
-magic is stored in the bones
-transmitted thru mammalian pregnancy bc the fetus steals its mothers bones
-stigmatized because of its association with the Infernal Dominion
-
