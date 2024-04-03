@@ -1,2 +1,0 @@
-# Ancient Nierunic
-
