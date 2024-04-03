@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-03-25T18:14:07-05:00
-
-====== Nierunic Empire ======
-Created Monday 25 March 2024
-
-Arose in Nierunal in the early years CE with [[:Religion:Cult of the Sentinels|Cult of the Sentinels]] as the state religion.

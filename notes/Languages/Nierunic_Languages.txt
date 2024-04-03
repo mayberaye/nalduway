@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-04-03T00:47:38-05:00
-
-====== Nierunic Languages ======
-Created Wednesday 03 April 2024
-
