@@ -27,7 +27,6 @@ Inspo: Afro-Asiatic, esp. Proto-Semitic, Sumerian
 | Obstruent: |        |        |               |              |         |                |         |
 | Stop       | p b p' |        | t d t'        |              |         | k g  k'        | ʔ       |
 | Affricate  |        |        | t͡s d͡z  t͡s' | t͡ɬ d͡ɮ t͡ɬ' |         |                |         |
-|            |        |        | <ts> <dz>     | <tl> <dl>    |         |                |         |
 | Fricative  |        | θ ð θ' | s z s'        |              | ʃ ʒ ʃ'  | x̣ ʁ x̣'       | h       |
 | Resonant   |        |        |               |              |         |                |         |
 | Trill:     |        |        | r             |              |         |                |         |
@@ -54,12 +53,23 @@ Pitch is used to place stress on syllables. (phonemic or non?)
 
 Syllables must begin with a consonant, although [j] and [w] are sometimes represented as vowels. 
 
-Consonant clusters are allowed only between an obstruent and a resonant, or between w or y and another resonant.
+Consonant clusters are allowed only between two consonants where at least one is a resonant.
 
 
 ==== Romanization Notes ====
 
-[t͡s] [d͡z] [ t͡s'] => 〈 ts 〉 〈 dz 〉 〈 ts' 〉 
+[ʔ] => 〈 ' 〉 
+[t͡s] [d͡z] [ t͡s'] => ts, dz,  ts' 
+[t͡ɬ] [d͡ɮ] [t͡ɬ'] =>  tl 〉 〈 dz 〉 〈 tl' 〉
+[θ] [ð] [θ'] => 〈 th 〉 〈 dh 〉 〈 th' 〉 
+[ʃ] [ʒ] [ʃ'] => 〈 sh 〉 〈 zh 〉 〈 sh'〉
+[x̣] [ʁ] [x̣'] => 〈 kh 〉 〈 gh 〉 〈 kh'〉
+[j] => 〈 y 〉 
+[a:] => 〈 aa 〉
+[e:] => 〈 ei 〉
+[i:] => 〈 ii 〉 
+[u:] => 〈 uu 〉
+
 
 
 ===== Grammar =====
