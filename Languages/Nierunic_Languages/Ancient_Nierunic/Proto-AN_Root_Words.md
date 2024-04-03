@@ -1,0 +1,27 @@
+# Proto-AN Root Words
+Created Tuesday 02 April 2024
+
+("caveman" root words for deriving vocab)
+ā, ē, ī, ō, ū
+
+rwi [rwi] - n. water
+hyem [hjem] - v. speak, n. voice/tongue
+th'al [θ'al] - v. to see, behold; n. thing
+ghalii [ʁali:] - v. to hear
+khuu [x̣u:] - v. to be, to sit
+shyuum [ʃju:m] - v. to lay/lie (down)
+gheirii[x̣e:ri:] - v. to stand, n. feet
+biil [bi:l] - n. kin
+siilaan [si:la:n] - n. head, face, person
+t'uuhum [t'u:hum] - n. body, back; reflexive particle
+dwaar [dwa:r] - v. to hold
+zeir [zeir]  - v. to break, to separate
+shwein [ʃwe:n] - v. to take, to possess
+lwul [lwul]- name
+yetl'udh [jet͡ɬ'uð]
+laakhei [la:x̣e:]
+
+
+tsaa [tsa:] - one
+me [me] - two
+
