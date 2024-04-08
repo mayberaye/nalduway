@@ -82,6 +82,9 @@
 }
 	
 	</style>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.25.0/tocbot.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.25.0/tocbot.css">
 </head>
 <body>
 
@@ -169,6 +172,19 @@ Using various objects for shamanic rituals would have led to the discovery that 
 	
 
 </div>
+
+<script>
+tocbot.init({
+
+  tocSelector: '.js-toc',
+
+  contentSelector: '.js-toc-content',
+
+  headingSelector: 'h1, h2, h3',
+
+  hasInnerContainers: true,
+});
+</script>
 
 </body>
 </html>
